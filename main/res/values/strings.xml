@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Code Buster</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_splash_button_begin">Begin</string>
+    <string name="title_activity_splash">Code Buster</string>
+    <string name="header_activity_game_play">Game Play:</string>
+    <string name="splash_activity_game_play_body">The game is similar to the old MasterMind game from the \'70s where two players try to guess a colored ball sequence in less turns than their opponent. This game, however, uses numbers (0-9) instead of colored balls with four slots. If you choose a correct number you will see a <font color="#666666">\"Gray\"</font> circle in the results list. If that same number is in the correct spot you will see a <font color="#00FF00">\"Green\"</font> circle. The game is over when you choose all four correct numbers and in their correct order (all <font color="#00FF00">\"Green\"</font> circles). A twist: this game is timed. If you finish quickly (few turns - less time) your score will be high and the reverse is true for a lower score. Good luck!</string>
+    <string name="title_activity_main">Code Buster</string>
+    <string name="activity_main_button_ok">OK</string>
+    <string name="title_activity_end_game_ign_input">EndGameIgnInputActivity</string>
+    <string name="ign_input_hint">Name</string>
+    <string name="ign_input_submit">Get Scores</string>
+    <string name="ign_input_screen_congratulations">Congratulations, you WON!!!</string>
+    <string name="ign_input_screen_description">Enter your name below to see where you stand with other Code Busters.</string>
+    <string name="title_activity_get_scores">GetScoresActivity</string>
+    <string name="get_scores_play_again_button">Play Again</string>
+    <string name="get_scores_no_internet_connection">You must have an internet connection to see the high scores.</string>
+</resources>
