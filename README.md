@@ -23,7 +23,7 @@ The general design:
 Why build it?
 
 This was my first Android app. I wanted to see just how easy/difficult it was to develop an app with only a few requirements. These requirements included
-JSon parsing on the client, Server-side (db) interaction, and a few built in Android UI components (including a list). The entire project from design to "Ship It" was about a month part-time. 
+JSon parsing on the client, Server-side (db) interaction, and a few built in Android UI components (including a list). The entire project life-cycle from design to "Ship It" was about a month part-time. 
 
 What did I encounter?
 
