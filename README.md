@@ -1,13 +1,13 @@
 Architectural Reqs: 
-        DB-driven (scores and updateable splash screen instructions)
-        JSON format (data) from UI to backend and vice-versa
-	One UI *main* screen for game play (no popups)
-	User-friendly design without the need for scrolling to play
+        DB-driven (scores and updateable splash screen instructions), 
+        JSON format (data) from UI to backend and vice-versa, 
+	One UI *main* screen for game play (no popups), 
+	User-friendly design without the need for scrolling to play.
 
 Server Design:
 	MySQL database with 2 tables:
-		Splash screen instructions
-		Scores (includes index: auto-increment, In-Game-Name, and Score)
+		Splash screen instructions, 
+		Scores (includes index: auto-increment, In-Game-Name, and Score).
 	PHP backend to parse JSon from/to UI and Database
 
 Platform: Android/Java runtime environment developed using Windows 7 OS and Android Studio IDE
