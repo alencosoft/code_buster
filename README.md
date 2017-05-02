@@ -1,6 +1,6 @@
 Architectural Reqs: 
-	DB-driven (scores and updateable splash screen instructions)
-	JSON format (data) from UI to backend and vice-versa
+        DB-driven (scores and updateable splash screen instructions)
+        JSON format (data) from UI to backend and vice-versa
 	One UI *main* screen for game play (no popups)
 	User-friendly design without the need for scrolling to play
 
